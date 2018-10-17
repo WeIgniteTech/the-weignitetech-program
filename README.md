@@ -13,7 +13,7 @@ The programm is articulated around three milestones: Fundamentals of programming
 ## Milestones/modules
 ### Fundamentals of programming
 > Mastering web development in a professional context requires good tools and techniques. The students will first get familiar with their _toolbox_ (a set of applications needed for software development). Then they will have to learn the fundamentals of the JavaScript programming language. 
-#### [Dev environment](https://github.com/WeIgniteTech/the-weignitetech-program/dev-environment) and [Git](https://github.com/WeIgniteTech/the-weignitetech-program/git)
+#### [Dev environment](/fundamentals-of-programming/10-dev-environment/README.md) and [Git](/fundamentals-of-programming/20-git/README.md)
 #### [JavaScript](https://github.com/WeIgniteTech/the-weignitetech-program/javascript)
 #### [Design patterns and paradigms of programming in JS](https://github.com/WeIgniteTech/the-weignitetech-program/advanced-javascript)
 #### [Web Architecture 101](https://github.com/WeIgniteTech/the-weignitetech-program/web-architecture-101)
@@ -24,5 +24,6 @@ The programm is articulated around three milestones: Fundamentals of programming
 ### Software Delivery
 
 ## Structure
-There are 3 modules or milestones. Each module has one or several topics. Each topic contents at least a `README.md` file (see the `README-Im-a-topic.md`)
+There are three milestones to this program or modules. Each module has at least one but often several topics. Each topic contents at least a `README.md` file (see the `README-Im-a-topic.md`)
+The ideal duration for a topic is three hours (a working session). Some complicated topics can be covered over multiple sessions. Some might be shorter than that. 
 
