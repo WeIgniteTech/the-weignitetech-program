@@ -13,10 +13,10 @@ The programm is articulated around three milestones: Fundamentals of programming
 ## Milestones/modules
 ### Fundamentals of programming
 > Mastering web development in a professional context requires good tools and techniques. The students will first get familiar with their _toolbox_ (a set of applications needed for software development). Then they will have to learn the fundamentals of the JavaScript programming language. 
-#### [Dev environment](/fundamentals-of-programming/10-dev-environment/README.md) and [Git](/fundamentals-of-programming/20-git/README.md)
-#### [JavaScript](https://github.com/WeIgniteTech/the-weignitetech-program/javascript)
-#### [Design patterns and paradigms of programming in JS](https://github.com/WeIgniteTech/the-weignitetech-program/advanced-javascript)
-#### [Web Architecture 101](https://github.com/WeIgniteTech/the-weignitetech-program/web-architecture-101)
+#### [Dev environment](/10-fundamentals-of-programming/10-dev-environment/README.md) and [Git](/10-fundamentals-of-programming/20-git/README.md)
+#### [JavaScript](/10-fundamentals-of-programming/30-javascript/README.md)
+#### [Design patterns and paradigms of programming in JS](/10-fundamentals-of-programming/40-advanced-javascript/README.md)
+#### [Web Architecture 101](/10-fundamentals-of-programming/50-web-architecture-101/README.md)
 
 ### Web development
 > As a growing full stack developer each student will have to know enough JavaScript so they can start building applications both in the browser and on the server. Students will also learn of web applications' architecture and the web as a platform besides their programming skills.
