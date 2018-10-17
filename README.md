@@ -23,3 +23,6 @@ The programm is articulated around three milestones: Fundamentals of programming
 
 ### Software Delivery
 
+## Structure
+There are 3 modules or milestones. Each module has one or several topics. Each topic contents at least a `README.md` file (see the `README-Im-a-topic.md`)
+
