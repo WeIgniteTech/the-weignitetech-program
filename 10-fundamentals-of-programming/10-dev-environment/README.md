@@ -1,24 +1,35 @@
-# [Topic name]
-> Short introduction describing this topic. Give the reasons why it is relevant for the student(context). Describe how this course fits the parent module (aka. _milestone_) and the program. 
+# Dev environment
+> The dev environment is a fundamental asset for the programmer. It contributes to the quality of the code (by ensuring its predictability) and gives the programmer the possibility to fully control the build process.    
 
 ## Learning goals
-> Maybe some more text, if not already described above.
-Or just directly a list of: 
-* some learning goals
-* and some more ...
+This topic will guide you through: 
+* understand what a dev environment is
+* what a (good) dev environment can help you with
+* install and build your own dev environment
+* understand the importance of predictability in the build (and run) process
+* getting familiar with the terminal and the command line
+* getting familiar with the Linux system
  
-## Prerequisite to this theme 
-> It might be a text with a link to a previous course
-Or a list of: 
-* concepts or techniques to master before this course
-* and some more ...
-And some link to what might be read before: 
-* [Lecture 1](https://github.com/WeIgniteTech/the-weignitetech-program/a-topic/lecture-1/page-does-not-exist-yet)
+## Prerequisite to this topic 
+> Bring your machine to the course
+Install the following software on your machine (you might need to restart your machine if your system requires so): 
+* [VirtualBox (5.2.20)](https://www.virtualbox.org/wiki/Downloads)
+* [Vagrant (2.2.0)](https://www.vagrantup.com/downloads.html)
 
-## Content
-> Give some idea of duration and amount of work .
-The content can be written directly in this `README.md` file or [somewhere else](https://github.com/WeIgniteTech/the-weignitetech-program/a-topic/a-topic/page-does-not-exist-yet)
-It is good practice to add some in-class practical *exercices* for a topic. 
+Optional: read this [blog post](https://www.getzephyr.com/insights/benefits-standardized-development-environments-agile-development)
+
+## Content of the session
+> The session is approx. 3 hours
+> We start first by installing a predefined dev environment (a Lubuntu desktop - a Linux distribution - running in a virtual machine) 
+Create a `WIT` folder on your machine and copy the following `Vagrantfile` into the same folder: (TODO: link to a VagrantFile `raw`)
+Open a terminal and go to your `WIT` folder where the `Vagrantfile` is now copied
+Run `vagrant up`
+> Then we explore the newly installed VM together
+> Exercises (TODO)
+ * create your user
+ * setup your GitHub account
+ * setup your dotfiles
+
 
 ## Further reading
-Optional content
+ * [Vagrant docs (just read the intro)](https://www.vagrantup.com/docs/index.html)
