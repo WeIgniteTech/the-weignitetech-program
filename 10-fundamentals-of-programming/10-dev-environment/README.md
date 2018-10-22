@@ -11,25 +11,34 @@ This topic will guide you through:
 * getting familiar with the Linux system
  
 ## Prerequisite to this topic 
-> Bring your machine to the course
-Install the following software on your machine (you might need to restart your machine if your system requires so): 
-* [VirtualBox (5.2.20)](https://www.virtualbox.org/wiki/Downloads)
-* [Vagrant (2.2.0)](https://www.vagrantup.com/downloads.html)
+> Create a `GitHub` account
 
-Optional: read this [blog post](https://www.getzephyr.com/insights/benefits-standardized-development-environments-agile-development)
+> Bring your machine to the course
+  Install the following software on your machine (you might need to restart your machine if your system requires so): 
+    * [VirtualBox (5.2.20)](https://www.virtualbox.org/wiki/Downloads)
+    * [Vagrant (2.2.0)](https://www.vagrantup.com/downloads.html)
+  Optional: read this [blog post](https://www.getzephyr.com/insights/benefits-standardized-development-environments-agile-development)
 
 ## Content of the session
-> The session is approx. 3 hours
-> We start first by installing a predefined dev environment (a Lubuntu desktop - a Linux distribution - running in a virtual machine) 
-Create a `WIT` folder on your machine and copy the following `Vagrantfile` into the same folder: (TODO: link to a VagrantFile `raw`)
-Open a terminal and go to your `WIT` folder where the `Vagrantfile` is now copied
-Run `vagrant up`
-> Then we explore the newly installed VM together
-> Exercises (TODO)
- * create your user
- * setup your GitHub account
- * setup your dotfiles
+> The session is approx. 3 hours. We start first by installing a predefined dev environment (a Linux desktop running in a Virtual Machine). When the dev environment is installed we we personalize it and get familiar with it. 
+
+ * From your machine (aka `Host`)
+
+   Create a `WIT` folder and copy the following `Vagrantfile` into the same folder: (TODO: link to a VagrantFile `raw`)
+   Open a terminal and go to your `WIT` folder where the `Vagrantfile` is now copied
+   Run `vagrant up`
+   (a Lubuntu desktop - a Linux distribution - will be running in a virtual machine) 
+
+ * In the VM (aka `Guest`)
+   Explore the newly installed VM together
+
+ * Exercises (TODO)
+   * create your user
+   * setup your GitHub account
+   * setup your dotfiles (TODO)
 
 
 ## Further reading
- * [Vagrant docs (just read the intro)](https://www.vagrantup.com/docs/index.html)
+ * [Intro to Vagrant](https://www.vagrantup.com/intro/index.html)
+ * [Learn the command line](https://www.codecademy.com/learn/learn-the-command-line) 
+ * [Tips & tricks](https://itsfoss.com/linux-command-tricks/)
