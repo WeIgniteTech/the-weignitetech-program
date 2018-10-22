@@ -11,31 +11,30 @@ This topic will guide you through:
 * getting familiar with the Linux system
  
 ## Prerequisite to this topic 
-> Create a `GitHub` account
-
-> Bring your machine to the course
-  Install the following software on your machine (you might need to restart your machine if your system requires so): 
+> No reading or homework from a previous session before this one. 
+  * Create a `GitHub` account
+  * Install the following software on your machine (you might need to restart your machine if your system requires so): 
     * [VirtualBox (5.2.20)](https://www.virtualbox.org/wiki/Downloads)
     * [Vagrant (2.2.0)](https://www.vagrantup.com/downloads.html)
-  Optional: read this [blog post](https://www.getzephyr.com/insights/benefits-standardized-development-environments-agile-development)
+  * Curious? Read this [blog post](https://www.getzephyr.com/insights/benefits-standardized-development-environments-agile-development)
 
 ## Content of the session
 > The session is approx. 3 hours. We start first by installing a predefined dev environment (a Linux desktop running in a Virtual Machine). When the dev environment is installed we we personalize it and get familiar with it. 
 
- * From your machine (aka `Host`)
+  * From your machine (aka `Host`)
 
-   Create a `WIT` folder and copy the following `Vagrantfile` into the same folder: (TODO: link to a VagrantFile `raw`)
-   Open a terminal and go to your `WIT` folder where the `Vagrantfile` is now copied
-   Run `vagrant up`
-   (a Lubuntu desktop - a Linux distribution - will be running in a virtual machine) 
+    * Create a `WIT` folder and copy the following `Vagrantfile` into the same folder: (TODO: link to a VagrantFile `raw`)
+    * Open a terminal and go to your `WIT` folder where the `Vagrantfile` is now copied
+    * Run `vagrant up`
+      (a Lubuntu desktop - a Linux distribution - will be running in a virtual machine) 
 
- * In the VM (aka `Guest`)
-   Explore the newly installed VM together
+  * In the VM (aka `Guest`)
+    * Explore the newly installed VM together
 
- * Exercises (TODO)
-   * create your user
-   * setup your GitHub account
-   * setup your dotfiles (TODO)
+  * Exercises (TODO)
+    * create your user
+    * setup your GitHub account
+    * setup your dotfiles (TODO)
 
 
 ## Further reading
