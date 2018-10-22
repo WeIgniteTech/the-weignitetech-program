@@ -1,14 +1,21 @@
-# [Module name]
-> Short description. Give the reasons why it is relevant for the student(context). Describe how this module fits the program and other modules.  
+# Fundamentals of programming
+> Data structures and types, controle structures (conditions, loops, ...) as well as paradigms of programmation are the main concepts one should be aware of as a programmer. But the environment in wich the code is written and the tools we need to achieve software development are also importants assets and should be mastered.    
 
 ## Learning goals
-> Maybe some more text, if not already described above.
-Or just directly a list of: 
-* some learning goals
-* and some more ...
+* Setting up a dev environment
+* Linux basics
+* The command line
+* Git, GitHub and collaboration work on source code
+* Data structures, data types and control structures in JavaScript
+* Object Oriented paradigm
+* Design Patterns 
+* Testing (write code with test in mind / code covered by tests)
 
 ## Calendar 
-| Session | Topic |
-| ---- | ----- |
-| 1. | [First topic of the module](/Week1/README.md) |
-| 2. | [Another module](/Week1/README.md) |
+| Session | Week | Topic |
+| ---- | ----- | ----- |
+| 1. | 44 | [The dev environment](/10-fundamentals-of-programming/10-dev-environment/README.md) |
+| 2. | 45 | [Git](/10-fundamentals-of-programming/20-git/README.md) |
+| 3. | 46 | [JavaScript 101](/10-fundamentals-of-programming/30-javascript/README.md) |
+| 4. | 47 | [Advanced JavaScript](/10-fundamentals-of-programming/40-advanced-javascript/README.md) |
+| 5. | 48 | [Web architecture 101](/10-fundamentals-of-programming/50-web-architecture-101/README.md) |
