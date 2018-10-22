@@ -10,7 +10,9 @@ The ideal duration for a topic is three hours (a working session). Some complica
 ### Fundamentals of programming
 > Mastering web development in a professional context requires good tools and techniques. The students will first get familiar with their _toolbox_ (a set of applications needed for software development). Then they will have to learn the fundamentals of the JavaScript programming language. 
 * [Dev environment](/10-fundamentals-of-programming/10-dev-environment/README.md) and [Git](/10-fundamentals-of-programming/20-git/README.md)
+
    The dev environment is a Linux desktop distribution
+   
 * [JavaScript](/10-fundamentals-of-programming/30-javascript/README.md)
 * [Design patterns and paradigms of programming in JS](/10-fundamentals-of-programming/40-advanced-javascript/README.md)
 * [Web Architecture 101](/10-fundamentals-of-programming/50-web-architecture-101/README.md)
