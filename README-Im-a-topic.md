@@ -3,22 +3,41 @@
 
 ## Learning goals
 > Maybe some more text, if not already described above.
+
 Or just directly a list of: 
 * some learning goals
 * and some more ...
  
-## Prerequisite to this theme 
-> It might be a text with a link to a previous course
-Or a list of: 
+## Lectures / prerequisites to this topic
+> This section contains lectures or concepts that should have been read/seen before starting this topic. It can be online-courses, blog posts or references to previous topics.
+
+Lectures: 
 * concepts or techniques to master before this course
-* and some more ...
-And some link to what might be read before: 
-* [Lecture 1](https://github.com/WeIgniteTech/the-weignitetech-program/a-topic/lecture-1/page-does-not-exist-yet)
+* external ressource like an [online-course](https://example.com/a-course-that-does-not-exist) 
+* a previous topic [of this program](https://github.com/WeIgniteTech/the-weignitetech-program/a-topic/lecture-1/page-does-not-exist-yet)
 
 ## Content
-> Give some idea of duration and amount of work .
-The content can be written directly in this `README.md` file or [somewhere else](https://github.com/WeIgniteTech/the-weignitetech-program/a-topic/a-topic/page-does-not-exist-yet)
-It is good practice to add some in-class practical *exercices* for a topic. 
+> The content section covers all the needed material to make the topic understood buy the student. It should contain some practical *exercices* that will be done on-site, as well as _further explanation_ or a demo. 
+> *Important*: Give some idea of the duration and amount of work.
+
+The content can be written directly here in this `README.md` file or [in another file or sub-folder](https://github.com/WeIgniteTech/the-weignitetech-program/a-topic/a-sub-topic-section/page-does-not-exist-yet)
+
+A content section should contain one of these: 
+* On-site exercise(s)
+* Demo
+* Presentation
+* Discution
+
+## Homework
+> Homework will let students master the topic 
+
+Example of homework:
+* another exercise
+* a different version of the exercise done on-site
+* finish the on-site exercise at home or make it better
+* same type of exercise from an another ressource 
+* let students write something about the topic 
 
 ## Further reading
-Optional content
+Optional content. Pointers to deeper understanding of a concept or discussion. 
+
