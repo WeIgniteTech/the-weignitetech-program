@@ -2,11 +2,11 @@
 > Short introduction describing this topic. Give the reasons why it is relevant for the student(context). Describe how this course fits the parent module (aka. _milestone_) and the program. 
 
 ## Learning goals
-> Maybe some more text, if not already described above.
+> Describe what will the student practically learn form this topic. What we can expect.
 
-Or just directly a list of: 
-* some learning goals
-* and some more ...
+Learning goals for this topic (example): 
+* Becoming familiar with the concept of ...
+* Being able to create a ...
  
 ## Lectures / prerequisites to this topic
 > This section contains lectures or concepts that should have been read/seen before starting this topic. It can be online-courses, blog posts or references to previous topics.
@@ -18,6 +18,7 @@ Lectures:
 
 ## Content
 > The content section covers all the needed material to make the topic understood buy the student. It should contain some practical *exercices* that will be done on-site, as well as _further explanation_ or a demo. 
+
 > *Important*: Give some idea of the duration and amount of work.
 
 The content can be written directly here in this `README.md` file or [in another file or sub-folder](https://github.com/WeIgniteTech/the-weignitetech-program/a-topic/a-sub-topic-section/page-does-not-exist-yet)
@@ -29,7 +30,7 @@ A content section should contain one of these:
 * Discution
 
 ## Homework
-> Homework will let students master the topic 
+> Homework will make students master the topic 
 
 Example of homework:
 * another exercise
