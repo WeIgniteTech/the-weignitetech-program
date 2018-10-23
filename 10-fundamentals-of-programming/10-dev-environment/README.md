@@ -10,7 +10,7 @@ This topic will guide you through:
 * getting familiar with the terminal and the command line
 * getting familiar with the Linux system
  
-## Prerequisite to this topic 
+## Lectures / Prerequisite to this topic 
 > No reading or homework from a previous session before this one. 
   * Create a `GitHub` account
   * Install the following software on your machine (you might need to restart your machine if your system requires so): 
@@ -36,6 +36,13 @@ This topic will guide you through:
     * setup your GitHub account
     * setup your dotfiles (TODO)
 
+## Homework
+> Keep on using your VM at home. Make your dev environment better
+
+Some exercises
+  * Try some new commands
+  * Try the man page
+  
 
 ## Further reading
  * [Intro to Vagrant](https://www.vagrantup.com/intro/index.html)
