@@ -1,41 +1,76 @@
 # Git and GitHub
 <!-- Short introduction describing this topic -->
->Git is a distributed version control system while GitHub is a collaboration website that hosts Git repositories. Most software is developed 
-in collaboration with others. When cola
+> When we develop software, we create files, add lines of code to the files, remove lines of code from the files, delete files, rename files, rename files... we make changes.
+We do this in collaboration with others. Version control system is a tool that helps us manage these changes that we introduce to our code.
+Git is a distributed version control system. GitHub is a collaboration website that hosts Git repositories.
+
+
 <!-- why it is relevant for the student(context) -->
->How would you submit your code
 
->How would you work together on a project in a team, which is how most software is made
-
->How 
+Some of the benefits of Git and GitHub is
+* Having access to your code from any computer
+* Having full overview of the changes you make to your code
+* Ability to collaborate with others
+* Ability to contribute to open source projects
+* It's widely used VCS in most work places
+* It can be used as part of your CV
 <!-- Describe how this course fits the parent module -->
 <!-- Describe how this course fits the program -->
 ## Learning goals
-> Maybe some more text, if not already described above.
-Or just directly a list of: 
+<!-- Maybe some more text, if not already described above. Or just directly a list of:-->
+
 * Understand what GIT is and the problems it solves
-* Be able to 
- 
-## Prerequisite to this theme 
-> It might be a text with a link to a previous course
-Or a list of: 
+* Understand what GitHub is
+* Be able to create a repository
+* Be able to use the most basic git commands to work with a project localy
+* Be able to use the commands needed to push changes to remote repository
+* Understand the simplest form of branching
+* Know the purpose of the three most common branches and know how to create and navigate them
+
+
+## Prerequisite to this theme
+<!-- > It might be a text with a link to a previous course
+Or a list of:
 * concepts or techniques to master before this course
 * and some more ...
-And some link to what might be read before: 
-* [Lecture 1](https://github.com/WeIgniteTech/the-weignitetech-program/a-topic/lecture-1/page-does-not-exist-yet)
+And some link to what might be read before:
+* [Lecture 1](https://github.com/WeIgniteTech/the-weignitetech-program/a-topic/lecture-1/page-does-not-exist-yet) -->
+It might help to take a look at the following articles and videos.
+It's ok if some of the stuff here does not make any sense yet. We will go through it together during the course.
+
+###Articles
+[4 Reasons Why Beginning Programmers Should Use “Git”](https://medium.com/swlh/git-as-the-newbies-learning-steroid-963a2146220b)
+
+[New Developer? You should’ve learned Git yesterday](https://codeburst.io/number-one-piece-of-advice-for-new-developers-ddd08abc8bfa)
+###Videos
+[Introduction to Git and GitHub by freeCodeCamp - 20 minutes watch](https://www.youtube.com/watch?v=vR-y_2zWrIE&list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
 
 ## Content
-> Give some idea of duration and amount of work .
+<!-- > Give some idea of duration and amount of work .
 The content can be written directly in this `README.md` file or [somewhere else](https://github.com/WeIgniteTech/the-weignitetech-program/a-topic/a-topic/page-does-not-exist-yet)
-It is good practice to add some in-class practical *exercices* for a topic. 
+It is good practice to add some in-class practical *exercices* for a topic. -->
+
+[Reference to the powerpoint presentation]()
+
+### exercices
+* create a folder with a file
+* make it a git repository
+* push it to your github account
+* Collaborate on the project with another person
 
 ## Further reading
-Optional content
+<!-- Optional content> -->
 
-##Links
+###Links
 [What is Git and why should I use it](https://www.quora.com/What-is-git-and-why-should-I-use-it)
 
-[Git for beginners](https://medium.com/swlh/git-as-the-newbies-learning-steroid-963a2146220b)
+###Videos
+[Git tutorial video](https://www.youtube.com/watch?time_continue=720&v=xuB1Id2Wxak)
+
+
+<!--
+[roadmap](https://hackernoon.com/the-2018-devops-roadmap-31588d8670cb )
+[roadmap-whole](https://github.com/kamranahmedse/developer-roadmap )
 
 ##Example from HYF
 * Have an understanding of problems for developers working together on software
@@ -52,3 +87,4 @@ Optional content
 * Know how to navigate between branches and what git commands to use for them.
 * Have an understanding of what HEAD means.
 * Have an understanding of pull requests and forking workflow.
+-->
