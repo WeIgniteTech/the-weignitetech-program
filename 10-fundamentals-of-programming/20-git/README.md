@@ -42,6 +42,7 @@ It's ok if some of the stuff here does not make any sense yet. We will go throug
 [4 Reasons Why Beginning Programmers Should Use “Git”](https://medium.com/swlh/git-as-the-newbies-learning-steroid-963a2146220b)
 
 [New Developer? You should’ve learned Git yesterday](https://codeburst.io/number-one-piece-of-advice-for-new-developers-ddd08abc8bfa)
+
 ###Videos
 [Introduction to Git and GitHub by freeCodeCamp - 20 minutes watch](https://www.youtube.com/watch?v=vR-y_2zWrIE&list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
 
