@@ -11,40 +11,36 @@ This topic will guide you through:
 * getting familiar with the Linux system
  
 ## Lectures / Prerequisite to this topic 
-> No reading or homework from a previous session before this one. 
+> No particular reading or homework for this session. 
+
+The following tasks can be achieved before the session starts 
   * Create a `GitHub` account
   * Install the following software on your machine (you might need to restart your machine if your system requires so): 
-    * [VirtualBox (5.2.20)](https://www.virtualbox.org/wiki/Downloads)
-    * [Vagrant (2.2.0)](https://www.vagrantup.com/downloads.html)
+    * [VirtualBox](https://www.virtualbox.org/wiki/Downloads) (version > 5.2.18)
+    * [Vagrant](https://www.vagrantup.com/downloads.html) (version > 2.1.5)
   * Curious? Read this [blog post](https://www.getzephyr.com/insights/benefits-standardized-development-environments-agile-development)
 
 ## Content of the session
-> The session is approx. 3 hours. We start first by installing a predefined dev environment (a Linux desktop running in a Virtual Machine). When the dev environment is installed we we personalize it and get familiar with it. 
+> The session is approx. 3 hours. We start first by installing a predefined dev environment (a Linux desktop running in a Virtual Machine). When the dev environment is installed we finalize it and get familiar with it. 
 
-  * From your machine (aka `Host`)
+  * Follow the instructions here: [dev environment - HowTo](https://github.com/WeIgniteTech/the-weignitetech-program/blob/master/10-fundamentals-of-programming/10-dev-environment/README.md)
 
-    * Create a `WIT` folder and copy the following `Vagrantfile` into the same folder: (TODO: link to a VagrantFile `raw`)
-    * Open a terminal and go to your `WIT` folder where the `Vagrantfile` is now copied
-    * Run `vagrant up`
-      (a Lubuntu desktop - a Linux distribution - will be running in a virtual machine) 
+  * After the install is finished, inside the VM (aka `Guest`)
+    * Explore the newly installed VM
 
-  * In the VM (aka `Guest`)
-    * Explore the newly installed VM together
-
-  * Exercises (TODO)
-    * create your user
-    * setup your GitHub account
-    * setup your dotfiles (TODO)
+  * Practice
+    * test your GitHub account (setup has been done by following instructions as [mentioned above](https://github.com/WeIgniteTech/the-weignitetech-program/blob/master/10-fundamentals-of-programming/10-dev-environment/README.md))
+    * explore file structure
 
 ## Homework
-> Keep on using your VM at home. Make your dev environment better
+> Use your VM at home.
 
-Some exercises
-  * Try some new commands
-  * Try the man page
+Exercises
+  * [Learn the command line](https://www.codecademy.com/learn/learn-the-command-line) 
+  * Try the man page of some commands, f.ex. `man ls`
   
 
 ## Further reading
- * [Intro to Vagrant](https://www.vagrantup.com/intro/index.html)
- * [Learn the command line](https://www.codecademy.com/learn/learn-the-command-line) 
  * [Tips & tricks](https://itsfoss.com/linux-command-tricks/)
+ * [Intro to Vagrant](https://www.vagrantup.com/intro/index.html)
+ 
