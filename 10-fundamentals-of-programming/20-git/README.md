@@ -1,29 +1,30 @@
 # Git and GitHub
 <!-- Short introduction describing this topic -->
 > When we develop software, we create files, add lines of code to the files, remove lines of code from the files, delete files, rename files, rename files... we make changes.
-We do this in collaboration with others. Version control system is a tool that helps us manage these changes that we introduce to our code.
+We do this in collaboration with others. Version control system is a tool that helps us track these changes that we introduce to our code.
 Git is a distributed version control system. GitHub is a collaboration website that hosts Git repositories.
 
 
 <!-- why it is relevant for the student(context) -->
 
-Some of the benefits of Git and GitHub is
+Some of the benefits of Git and GitHub are
 * Having access to your code from any computer
 * Having full overview of the changes you make to your code
 * Ability to collaborate with others
 * Ability to contribute to open source projects
 * It's widely used VCS in most work places
-* It can be used as part of your CV
+* It can be used as part of your CV, where you can show case what you have worked on
 <!-- Describe how this course fits the parent module -->
 <!-- Describe how this course fits the program -->
 ## Learning goals
 <!-- Maybe some more text, if not already described above. Or just directly a list of:-->
 
-* Understand what GIT is and the problems it solves
-* Understand what GitHub is
-* Be able to create a repository
-* Be able to use the most basic git commands to work with a project localy
-* Be able to use the commands needed to push changes to remote repository
+After this session, you will
+* understand why GIT exists
+* understand what GitHub is
+* be able to create a repository
+* be able to use the most basic git commands to work with a project locally
+* be able to use the commands needed to push changes to remote repository
 * Understand the simplest form of branching
 * Know the purpose of the three most common branches and know how to create and navigate them
 
@@ -43,8 +44,20 @@ It's ok if some of the stuff here does not make any sense yet. We will go throug
 
 [New Developer? You should’ve learned Git yesterday](https://codeburst.io/number-one-piece-of-advice-for-new-developers-ddd08abc8bfa)
 
+
 ###Videos
+* Alternative 1
+
 [Introduction to Git and GitHub by freeCodeCamp - 20 minutes watch](https://www.youtube.com/watch?v=vR-y_2zWrIE&list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
+
+* Alternative 2
+
+[1.1: Introduction - Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY)
+
+[1.2: Branches - Git and GitHub for Poets](https://www.youtube.com/watch?v=oPpnCh7InLY)
+
+[1.3: Forks and Pull Requests - Git and GitHub for Poets](https://www.youtube.com/watch?v=_NrSWLQsDL4)
+
 
 ## Content
 <!-- > Give some idea of duration and amount of work .
@@ -65,9 +78,12 @@ It is good practice to add some in-class practical *exercices* for a topic. -->
 ###Links
 [What is Git and why should I use it](https://www.quora.com/What-is-git-and-why-should-I-use-it)
 
+[The Git Parable - Tom Preston-Werner](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
+
 ###Videos
 [Git tutorial video](https://www.youtube.com/watch?time_continue=720&v=xuB1Id2Wxak)
 
+[The Git Parable - a different approach to understanding Git (90 min) - Johan Herland](https://www.youtube.com/watch?v=jm7QsI-nNjk&feature=youtu.be)
 
 <!--
 [roadmap](https://hackernoon.com/the-2018-devops-roadmap-31588d8670cb )
