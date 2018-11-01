@@ -5,7 +5,7 @@ We do this in collaboration with others. Version control system is a tool that h
 Git is a distributed version control system. GitHub is a collaboration website that hosts Git repositories.
 
 
-<!-- why it is relevant for the student(context) -->
+<!-- why it is relevant for the student(context), what will the student practically learn form this topic. What we can expect. -->
 
 Some of the benefits of Git and GitHub are
 * Having access to your code from any computer
@@ -17,7 +17,10 @@ Some of the benefits of Git and GitHub are
 <!-- Describe how this course fits the parent module -->
 <!-- Describe how this course fits the program -->
 ## Learning goals
-<!-- Maybe some more text, if not already described above. Or just directly a list of:-->
+<!--
+examples: * Becoming familiar with the concept of ...
+          * Being able to create a ...
+-->
 
 After this session, you will
 * understand why GIT exists
@@ -29,23 +32,25 @@ After this session, you will
 * Know the purpose of the three most common branches and know how to create and navigate them
 
 
-## Prerequisite to this theme
-<!-- > It might be a text with a link to a previous course
-Or a list of:
+## Lectures / prerequisites to this topic
+<!-- 
+> This section contains lectures or concepts that should have been read/seen before starting this topic. It can be online-courses, blog posts or references to previous topics.
+
+Lectures: 
 * concepts or techniques to master before this course
-* and some more ...
-And some link to what might be read before:
-* [Lecture 1](https://github.com/WeIgniteTech/the-weignitetech-program/a-topic/lecture-1/page-does-not-exist-yet) -->
+* external ressource like an [online-course](https://example.com/a-course-that-does-not-exist) 
+* a previous topic [of this program](https://github.com/WeIgniteTech/the-weignitetech-program/a-topic/lecture-1/page-does-not-exist-yet)
+-->
 It might help to take a look at the following articles and videos.
 It's ok if some of the stuff here does not make any sense yet. We will go through it together during the course.
 
-###Articles
+### Articles
 [4 Reasons Why Beginning Programmers Should Use “Git”](https://medium.com/swlh/git-as-the-newbies-learning-steroid-963a2146220b)
 
 [New Developer? You should’ve learned Git yesterday](https://codeburst.io/number-one-piece-of-advice-for-new-developers-ddd08abc8bfa)
 
 
-###Videos
+### Videos
 * Alternative 1
 
 [Introduction to Git and GitHub by freeCodeCamp - 20 minutes watch](https://www.youtube.com/watch?v=vR-y_2zWrIE&list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
@@ -60,13 +65,26 @@ It's ok if some of the stuff here does not make any sense yet. We will go throug
 
 
 ## Content
-<!-- > Give some idea of duration and amount of work .
-The content can be written directly in this `README.md` file or [somewhere else](https://github.com/WeIgniteTech/the-weignitetech-program/a-topic/a-topic/page-does-not-exist-yet)
-It is good practice to add some in-class practical *exercices* for a topic. -->
+<!-- 
+> The content section covers all the needed material to make the topic understood buy the student. It should contain some practical *exercices* that will be done on-site, as well as _further explanation_ or a demo. 
+
+> *Important*: Give some idea of the duration and amount of work.
+
+The content can be written directly here in this `README.md` file or [in another file or sub-folder](https://github.com/WeIgniteTech/the-weignitetech-program/a-topic/a-sub-topic-section/page-does-not-exist-yet)
+
+A content section should contain one of these: 
+* On-site exercise(s)
+* Demo
+* Presentation
+* Discution
+-->
 
 [Reference to the powerpoint presentation]()
 
-### exercices
+## Homework
+<!-- 
+> Homework will make students master the topic 
+-->
 * create a folder with a file
 * make it a git repository
 * push it to your github account
