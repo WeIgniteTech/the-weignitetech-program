@@ -93,12 +93,12 @@ A content section should contain one of these:
 ## Further reading
 <!-- Optional content> -->
 
-###Links
+### Links
 [What is Git and why should I use it](https://www.quora.com/What-is-git-and-why-should-I-use-it)
 
 [The Git Parable - Tom Preston-Werner](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
 
-###Videos
+### Videos
 [Git tutorial video](https://www.youtube.com/watch?time_continue=720&v=xuB1Id2Wxak)
 
 [The Git Parable - a different approach to understanding Git (90 min) - Johan Herland](https://www.youtube.com/watch?v=jm7QsI-nNjk&feature=youtu.be)
