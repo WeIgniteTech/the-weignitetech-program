@@ -79,7 +79,7 @@ A content section should contain one of these:
 * Discution
 -->
 
-[Reference to the powerpoint presentation]()
+comming soon <!-- [Reference to the powerpoint presentation]() -->
 
 ## Homework
 <!-- 
