@@ -16,6 +16,7 @@
 | ---- | ----- | ----- |
 | 1. | 44 | [The dev environment](/10-fundamentals-of-programming/10-dev-environment/README.md) |
 | 2. | 45 | [Git](/10-fundamentals-of-programming/20-git/README.md) |
-| 3. | 46 | [JavaScript 101](/10-fundamentals-of-programming/30-javascript/README.md) |
-| 4. | 47 | [Advanced JavaScript](/10-fundamentals-of-programming/40-advanced-javascript/README.md) |
-| 5. | 48 | [Web architecture 101](/10-fundamentals-of-programming/50-web-architecture-101/README.md) |
+| 3. | 45 | [JavaScript intro](/10-fundamentals-of-programming/30-javascript/README.md) |
+| 4. | 46 | [JavaScript 101](/10-fundamentals-of-programming/30-javascript/README.md) |
+| 5. | 47 | [Advanced JavaScript](/10-fundamentals-of-programming/40-advanced-javascript/README.md) |
+| 6. | 48 | [Web architecture 101](/10-fundamentals-of-programming/50-web-architecture-101/README.md) |
