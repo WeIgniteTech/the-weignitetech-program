@@ -5,8 +5,11 @@
 ## Structure
 There are three milestones or modules to this program. Each module has at least one topic, but often several topics. Each topic contains at least a `README.md` file (see the `README-Im-a-topic.md`)
 The ideal duration for a topic is three hours (a working session). Some complicated topics can be covered over multiple sessions. Some might be shorter than that.
-A topic will often include some practical exercises that need to be downloaded or _cloned_ as an independant Git repository by the students. 
-__For example:__ the topic `dev-environment` is described [here](/10-fundamentals-of-programming/10-dev-environment/README.md) in a `README.md` file, as every topics. But in this description it links to another _repository_ with the same name [dev-environment](https://github.com/WeIgniteTech/dev-environment), and which contains the practical aspects of this topic (_howTo_ and some _exercises_). This other repository can be downloaded, cloned or forked by the students. 
+
+A topic will often include some practical exercises that can to be downloaded or _cloned_ as an independant Git repository by the students. 
+
+__For example:__ the topic `dev-environment` is described [here](/10-fundamentals-of-programming/10-dev-environment/README.md) as a sub-folder of `fundamentals-of-programming` But the files and exercices needed for the class and/or homework are accessible in another _repository_ with the same name [dev-environment](https://github.com/WeIgniteTech/dev-environment). This other repository can be downloaded, cloned or forked by the students. 
+
 By having all _practicalities_ or _exercises_ of a given topic in a separated repository we make it possible for the students to __only__ clone the exercises they need for a particular topic.  
 
 ## Modules
