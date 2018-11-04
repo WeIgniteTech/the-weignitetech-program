@@ -23,20 +23,22 @@ The following tasks can be achieved before the session starts
 ## Content of the session
 > The session is approx. 3 hours. We start first by installing a predefined dev environment (a Linux desktop running in a Virtual Machine). When the dev environment is installed we finalize it and get familiar with it. 
 
-  * Follow the instructions here: [dev environment - HowTo](https://github.com/WeIgniteTech/the-weignitetech-program/blob/master/10-fundamentals-of-programming/10-dev-environment/README.md)
+  * Follow the instructions here: [dev environment - HowTo](https://github.com/WeIgniteTech/dev-environment/blob/master/README.md)
 
   * After the install is finished, inside the VM (aka `Guest`)
-    * Explore the newly installed VM
+    * Learn to start and stop the VM from `VirtualBox` 
+    * _Explore_ the newly installed VM
 
   * Practice
-    * test your GitHub account (setup has been done by following instructions as [mentioned above](https://github.com/WeIgniteTech/the-weignitetech-program/blob/master/10-fundamentals-of-programming/10-dev-environment/README.md))
-    * explore file structure
+    * test your GitHub account (we assume you have been through the installation of the VM, including [this step](https://github.com/WeIgniteTech/dev-environment/blob/master/README.md#make-the-vm-ready-to-use-with-a-few-manual-steps))
+
 
 ## Homework
 > Use your VM at home.
 
 Exercises
   * [Learn the command line](https://www.codecademy.com/learn/learn-the-command-line) 
+  * Type some of the commands you learn in the VM (type the commands in the `terminal`)
   * Try the man page of some commands, f.ex. `man ls`
   
 
