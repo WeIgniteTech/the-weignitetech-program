@@ -7,8 +7,6 @@ This topic will guide you through:
 * what a (good) dev environment can help you with
 * install and build your own dev environment
 * understand the importance of predictability in the build (and run) process
-* getting familiar with the terminal and the command line
-* getting familiar with the Linux system
  
 ## Lectures / Prerequisite to this topic 
 > No particular reading or homework for this session. 
@@ -37,12 +35,10 @@ The following tasks can be achieved before the session starts
 > Use your VM at home.
 
 Exercises
-  * [Learn the command line](https://www.codecademy.com/learn/learn-the-command-line) 
-  * Type some of the commands you learn in the VM (type the commands in the `terminal`)
-  * Try the man page of some commands, f.ex. `man ls`
+  * Complete the install of the VM (use `Slack` if you need help)
   
 
 ## Further reading
- * [Tips & tricks](https://itsfoss.com/linux-command-tricks/)
  * [Intro to Vagrant](https://www.vagrantup.com/intro/index.html)
+ * [Benefits of standardized dev-env](https://dzone.com/articles/benefits-of-standardized-development-environments)
  
