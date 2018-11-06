@@ -16,10 +16,11 @@ The development environement must be installed and ready to use, as explained in
 ## Content of the session
 > The session is approx. 1 hour. We present the commands under and then use them in these [exercises](https://github.com/WeIgniteTech/command-line). 
 
-  * shortcuts: `ctrl+c`, `ctrl+l`, `ctrl+k`, `ctrl+a` and `ctrl+e`
+  * shortcuts: `ctrl+c`, `ctrl+l`, `ctrl+k`, `ctrl+a` and `ctrl+e`, `ctrl+d`
   * structure of a command (name, option, output, _man pages_, ...)
   * navigation: `cd`, `ls`, `pwd`
-  * folders & files manipulation: `mkdir`,  `touch` og `rm`(!), `less`, `cat`, `more`
+  * folders & files manipulation: `mkdir`,  `touch` og `rm`(!), `less`, and `more`, `cat`
+  * stream redirections: `>>` and `>` 
   * `vi` and `vim` (if we have time)
 
 
