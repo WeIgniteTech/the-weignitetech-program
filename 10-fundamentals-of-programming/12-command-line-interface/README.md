@@ -34,5 +34,6 @@ Other exercises
   
 
 ## Further reading
+ * [Intro to Linux redirections](https://www.digitalocean.com/community/tutorials/an-introduction-to-linux-i-o-redirection)
  * [Tips & tricks](https://itsfoss.com/linux-command-tricks/)
  
