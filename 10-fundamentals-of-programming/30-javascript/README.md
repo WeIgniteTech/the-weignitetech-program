@@ -1,12 +1,13 @@
-# [Topic name]
-> Short introduction describing this topic. Give the reasons why it is relevant for the student(context). Describe how this course fits the parent module (aka. _milestone_) and the program. 
+# JavaScript
+> Intro to JavaScript [...]
 
 ## Learning goals
-> Describe what will the student practically learn form this topic. What we can expect.
+> At the end of this module you will be more familiar with the concept of programming and the JavaScript programming language. 
 
 Learning goals for this topic (example): 
-* Becoming familiar with the concept of ...
-* Being able to create a ...
+* Turing completeness and programming languages
+* Reading vs writing code
+* The steps in programming
  
 ## Lectures / prerequisites to this topic
 > This section contains lectures or concepts that should have been read/seen before starting this topic. It can be online-courses, blog posts or references to previous topics.
@@ -40,5 +41,7 @@ Example of homework:
 * let students write something about the topic 
 
 ## Further reading
-Optional content. Pointers to deeper understanding of a concept or discussion. 
+ * [How Alan Turing invented the computer age](https://blogs.scientificamerican.com/guest-blog/how-alan-turing-invented-the-computer-age/) 
+ * [Turing machine](http://www.thephysicsmill.com/2014/08/05/turing-machine/)
+ 
 
