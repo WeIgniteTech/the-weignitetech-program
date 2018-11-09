@@ -79,7 +79,7 @@ A content section should contain one of these:
 * Discution
 -->
 
-comming soon <!-- [Reference to the powerpoint presentation]() -->
+[This link](https://backlog.com/git-tutorial/) has a very good introduction of git for beginners. <!-- [Reference to the powerpoint presentation]() -->
 
 ## Homework
 <!-- 
